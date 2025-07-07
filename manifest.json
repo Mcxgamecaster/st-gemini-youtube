@@ -1,0 +1,11 @@
+{
+    "name": "Gemini Pro Features",
+    "version": "1.0.0",
+    "description": "Adds YouTube video understanding and Google Search grounding to Gemini.",
+    "author": "Cline",
+    "id": "st-gemini-youtube",
+    "tags": ["chat", "api"],
+    "js": "index.js",
+    "css": "style.css",
+    "generate_interceptor": "geminiProFeaturesInterceptor"
+}
